@@ -5,13 +5,13 @@ I'm a passionate web developer with a focus on building impactful web applicatio
 ---
 
 ### 🛠 Skills
-- **Languages:** Python, JavaScript
-- **Frontend:** React
-- **Backend:** Node.js, Express
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 📚 Frameworks
-- Next.js
-- Django
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
@@ -21,9 +21,3 @@ I'm open to collaborations and always eager to learn from others. If you’re in
 ---
 
 Thanks for stopping by, and happy coding! 😄
-
-
-<!---
-KH4NY0/KH4NY0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
