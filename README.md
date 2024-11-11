@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Lukhanyo Radebe
-- 👀 I’m interested in Software engineering
-- 💞️ I’m looking to collaborate on any projects to gain experience
-- 📫 How to reach me khanyoradebe46@gmail.com
-- 😄 Pronouns: him
-- ⚡ Fun fact: i love coding!!!!!!
+Hello, i am ## Lukhanyo 
 
 <!---
 KH4NY0/KH4NY0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
