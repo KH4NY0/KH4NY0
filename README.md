@@ -1,4 +1,4 @@
-I'm a passionate web developer with a focus on building impactful web applications. I enjoy creating and developing solutions that are both functional and visually appealing. I'm always looking to connect with like-minded individuals to collaborate on exciting projects and share knowledge in the tech space.
+I'm a passionate software developer with a focus on building impactful web applications. I enjoy creating and developing solutions that are both functional and visually appealing. I'm always looking to connect with like-minded individuals to collaborate on exciting projects and share knowledge in the tech space.
 
 ---
 
