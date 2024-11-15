@@ -1,4 +1,4 @@
-I'm a passionate web developer with a focus on building impactful applications. I enjoy creating and developing solutions that are both functional and visually appealing. I'm always looking to connect with like-minded individuals to collaborate on exciting projects and share knowledge in the tech space.
+I'm a passionate software developer with a focus on building impactful applications. I enjoy creating and developing solutions that are both functional and visually appealing. I'm always looking to connect with like-minded individuals to collaborate on exciting projects and share knowledge in the tech space.
 
 ---
 
@@ -13,7 +13,7 @@ I'm a passionate web developer with a focus on building impactful applications. 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KH4NY0&theme=holi&hide_border=false)<br/>
 
 ### 💬 Let's Connect
-I'm open to collaborations and always eager to learn from others. If you’re interested in working together or just want to chat about web development, feel free to reach out!
+I'm open to collaborations and always eager to learn from others. If you’re interested in working together or just want to chat about software development, feel free to reach out!
 
 ---
 
