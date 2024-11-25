@@ -1,4 +1,5 @@
-i am passionate about designing and building scalable, reliable systems. I specialize in creating APIs, optimizing databases, and implementing efficient algorithms to solve complex problems. When I'm not coding, I enjoy contributing to open-source projects and learning new technologies.
+I have a focus on building impactful applications. I enjoy creating and developing solutions that are both functional and visually appealing. I'm always looking to connect with like-minded individuals to collaborate on exciting projects and share knowledge in the tech space.
+
 
 ---
 
