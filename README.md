@@ -1,4 +1,4 @@
-Hi there! I am a creative problem-solver and passionate **Web Developer** who loves turning ideas into reality through modern web applications. With a strong foundation in **Next.js**, I specialize in crafting elegant, scalable, and user-focused digital solutions for clients.  
+Hi there! I am a creative problem-solver and passionate **Software Developer** who loves turning ideas into reality through modern web applications. With a strong foundation in **Next.js**, I specialize in crafting elegant, scalable, and user-focused digital solutions for clients.  
 
 I thrive on solving complex challenges—whether it's building seamless user interfaces, architecting robust APIs, or optimizing workflows. When it comes to API development, **Postman** is my go-to tool for designing, testing, and documenting high-performance endpoints.  
 
