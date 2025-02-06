@@ -1,17 +1,31 @@
-Hi there! I am a creative problem-solver and passionate **Software Developer** who loves turning ideas into reality through modern web applications. With a strong foundation in **Next.js**, I specialize in crafting elegant, scalable, and user-focused digital solutions for clients.  
+Hi there! I am a **Software Developer** who loves turning ideas into modern web applications. I build robust solutions, from console apps to full-stack web projects and leverage cloud and DevOps practices to streamline development and deployment.
 
-I thrive on solving complex challenges—whether it's building seamless user interfaces, architecting robust APIs, or optimizing workflows. When it comes to API development, **Postman** is my go-to tool for designing, testing, and documenting high-performance endpoints.  
-
-Beyond the code, I’m constantly exploring new technologies and best practices to stay ahead in this ever-evolving industry. I believe every line of code should tell a story and that collaboration leads to innovation.
+Beyond the code, I’m constantly exploring new technologies and best practices to stay ahead in this ever-evolving industry. I believe that every line of code should tell a story and that collaboration drives innovation.
 
 ---
 
 ## Tech Stack: 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+---
+
+## Learning & Future Goals
+
+- **Currently Exploring:**  
+  - Advanced .NET topics and cloud-native application development.  
+  - Container orchestration with Kubernetes and CI/CD automation.
+ 
 ---
 
 ## Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KH4NY0&theme=holi&hide_border=false)<br/>
+
+## Favorite quote
+> "Strive not to be a success, but rather to be of value." – Albert Einstein
 
 ### 💬 Let's Connect
 I'm open to collaborations and always eager to learn from others. If you’re interested in working together feel free to reach out!
