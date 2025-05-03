@@ -38,10 +38,6 @@ Monitoring & Security: Windows Event Viewer, security best practices
 
 ---
 
-
-## Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=KH4NY0&theme=holi&hide_border=false)<br/>
-
 ## Favorite quote
 > "Strive not to be a success, but rather to be of value." – Albert Einstein
 
