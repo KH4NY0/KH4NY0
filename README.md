@@ -1,48 +1,51 @@
-Hi there! 👋 I'm Lukhanyo – Aspiring Systems Administrator 🖥️🛠️
+Hi there! 👋 I'm Lukhanyo – Aspiring Devops Engineer
 
-I’m on a journey to become a Systems Administrator, with a strong foundation in IT support and a growing passion for keeping systems running smoothly, securely, and efficiently. I enjoy working with operating systems, managing networks, and automating routine tasks to keep infrastructure reliable and scalable.
+I’m on a journey to become a DevOps Engineer, blending my background in IT support with a growing passion for automation, cloud infrastructure, and CI/CD pipelines.
 
-My goal is to ensure systems are secure, up-to-date, and optimized — and I’m always learning new tools and technologies to improve how systems are managed in real-world environments.
+I enjoy working with Linux and Windows environments, automating routine tasks, deploying cloud resources, and building workflows
 
 ---
 
 ## Future Goals:
 
-Earn certifications like CompTIA Network+, CompTIA Linux+, and Microsoft Certified: Azure Administrator Associate.
+Earn certifications like CompTIA Linux+, Microsoft Certified: Azure Administrator Associate, and AWS Certified DevOps Engineer – Professional
 
-Gain hands-on experience with real-world IT infrastructure.
+Master tools like Docker, Kubernetes, Jenkins, and Ansible
 
-Land a junior sysadmin or IT technician role to grow into enterprise systems management.
+Contribute to real‑world infrastructure automation projects and open‑source DevOps tooling
 
 ---
 
 ## 🛠 Skills & Areas of Focus:
-Operating Systems: Windows 10/11, Windows Server, Ubuntu
+Operating Systems: Ubuntu, Windows Server, Windows 10/11 
 
-User & Access Management: Active Directory, Group Policy, Azure AD
+Scripting & Automation: Bash, Python basics, PowerShell 
 
-Networking Basics: IP addressing, DNS, DHCP, firewalls, subnetting
+CI/CD & Version Control: Git/GitHub Actions, Jenkins (learning) 
 
-Scripting & Automation: PowerShell, basic Bash
+Cloud & Virtualization: Azure (fundamentals), AWS (learning), VirtualBox, Hyper‑V
 
-Virtualization: VirtualBox, Hyper-V
+Containerization: Docker basics 
 
-Monitoring & Security: Windows Event Viewer, security best practices
+Networking & Security: IP, DNS, DHCP, firewalls, security best practices 
+
+Monitoring & Logging: Windows Event Viewer, system logs, exploring Prometheus + Grafana
 
 ---
 
 ## Certifications & Learning Path
-✅ Google IT Support Professional Certificate (Completed)
+Google IT Support Professional Certificate (Completed)
 
-🚀 Currently exploring labs, projects, and Microsoft Learn to solidify my knowledge and prepare for the next step in my IT journey.
+Currently completing hands‑on DevOps labs, cloud projects, and infrastructure‑as‑code exercises via Microsoft Learn, GitHub, and personal projects
 
 ---
 
 ## Favorite quote
-> "Strive not to be a success, but rather to be of value." – Albert Einstein
+> “Automation applied to an inefficient operation will magnify the inefficiency.” – Bill Gates
 
 💬 Let’s Connect
-I’m always eager to connect with fellow IT pros, mentors, or aspiring sysadmins. If you’re working on something cool — or just want to chat tech — let’s connect!
+
+I’m eager to connect with DevOps professionals, cloud engineers, or anyone building scalable, automated systems. If you’re working with Kubernetes clusters, CI/CD pipelines, or cloud automation — I’d love to learn from you.
 
 ---
 
