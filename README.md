@@ -45,7 +45,7 @@ Currently completing hands‑on DevOps labs, cloud projects, and infrastructure�
 
 💬 Let’s Connect
 
-I’m eager to connect with DevOps professionals, cloud engineers, or anyone building scalable, automated systems. If you’re working with Kubernetes clusters, CI/CD pipelines, or cloud automation — I’d love to learn from you.
+I’m eager to connect with DevOps professionals, cloud engineers, or anyone building scalable, automated systems. If you’re working with Kubernetes clusters, CI/CD pipelines, or cloud automation, I’d love to learn from you.
 
 ---
 
