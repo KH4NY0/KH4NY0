@@ -1,44 +1,44 @@
-# Hi there! I'm Lukhanyo – Aspiring Project Manager  
+# Hi there! I'm Lukhanyo – Aspiring Automation Test Engineer  
 
-I’m on a journey to become a **Project Manager**, blending my background in IT support with a growing passion for **planning, execution, and team collaboration**.  
+I’m on a journey to become an **Automation Test Engineer**, leveraging my background in IT support with a growing passion for **quality assurance, test automation, and software reliability**.  
 
-I enjoy creating structure out of complexity, coordinating people and processes, and ensuring that projects are delivered **on time, within scope, and with measurable impact**.  
+I enjoy creating robust test frameworks, identifying defects before they impact users, and ensuring that software is delivered **bug-free, scalable, and high-performing**.  
 
 ---
 
 ## Future Goals  
-- Earn certifications like **CAPM (Certified Associate in Project Management)**, **PMP**, and **Agile/Scrum Master**  
-- Master tools like **Jira, Trello, Asana, and Microsoft Project**  
-- Lead cross-functional teams on **real-world IT and business projects**  
-- Contribute to building systems that empower teams to work smarter and deliver value faster  
+- Gain expertise in **test automation frameworks** like Selenium, Cypress, and Playwright  
+- Master **programming for testing**: Python, Java, and JavaScript/TypeScript  
+- Integrate automated testing into **CI/CD pipelines** with tools like Jenkins, GitHub Actions, and GitLab CI  
+- Contribute to building **reliable, efficient, and maintainable testing systems** for real-world applications  
 
 ---
 
 ## Skills & Areas of Focus  
-- **Project Management Methods:** Waterfall, Agile (Scrum, Kanban)  
-- **Collaboration & Tools:** Jira, Trello, Asana, MS Project, Slack, Confluence  
-- **Planning & Scheduling:** Work breakdown structures, Gantt charts, task dependencies  
-- **Risk & Change Management:** Identifying risks, mitigation strategies, and change control  
-- **Communication & Leadership:** Stakeholder communication, team coordination, reporting  
-- **Technical Foundations:** IT support background (Windows/Linux), cloud fundamentals (Azure/AWS basics), scripting familiarity (Bash/Python)  
+- **Testing Methodologies:** Manual testing, functional, regression, integration, API testing  
+- **Automation Tools & Frameworks:** Selenium WebDriver, Cypress, Playwright, Appium, REST-assured  
+- **Programming & Scripting:** Python, Java, JavaScript/TypeScript, Bash scripting basics  
+- **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI, version control with Git  
+- **Test Design & Reporting:** Writing test cases, creating test plans, bug tracking, generating reports  
+- **Technical Foundations:** IT support background (Windows/Linux), cloud fundamentals (Azure/AWS basics)  
 
 ---
 
 ## Certifications & Learning Path  
 - ✅ **Google IT Support Professional Certificate (Completed)**  
-- 📌 Currently studying **Agile and Scrum methodologies**, while completing hands-on project management simulations, case studies, and personal projects  
+- 📌 Currently learning **Automation Testing, Selenium, and Cypress**, while building hands-on projects and contributing to open-source testing repositories  
 
 ---
 
 ## Favorite Quote  
-> “Plans are only good intentions unless they immediately degenerate into hard work.” – Peter Drucker  
+> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin  
 
 ---
 
 ## Let’s Connect  
-I’m eager to connect with **Project Managers, Scrum Masters, and Agile practitioners**.  
+I’m eager to connect with **QA engineers, test automation experts, and software developers**.  
 
-If you’re managing teams, leading sprints, or delivering complex projects, I’d love to learn from your experiences and share insights.  
+If you’re working on improving software quality, building test frameworks, or integrating testing into DevOps pipelines, I’d love to exchange knowledge and insights.  
 
 ---
 
