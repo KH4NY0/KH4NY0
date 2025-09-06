@@ -1,6 +1,6 @@
 # Hi there! I'm Lukhanyo – Aspiring Automation Test Engineer  
 
-I’m on a journey to become an **Automation Test Engineer**, leveraging my background in IT support with a growing passion for **quality assurance, test automation, and software reliability**.  
+I’m on a journey to become an **Test Automation Engineer**, leveraging my background in IT support with a growing passion for **quality assurance, test automation, and software reliability**.  
 
 I enjoy creating robust test frameworks, identifying defects before they impact users, and ensuring that software is delivered **bug-free, scalable, and high-performing**.  
 
