@@ -25,8 +25,8 @@ I enjoy creating robust test frameworks, identifying defects before they impact 
 ---
 
 ## Certifications & Learning Path  
-- ✅ **Google IT Support Professional Certificate (Completed)**  
-- 📌 Currently learning **Automation Testing, Selenium, and Cypress**, while building hands-on projects and contributing to open-source testing repositories  
+- **Google IT Support Professional Certificate (Completed)**  
+- Currently learning **Automation Testing, Selenium, and Cypress**, while building hands-on projects and contributing to open-source testing repositories  
 
 ---
 
